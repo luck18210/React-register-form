@@ -1,3 +1,7 @@
 # React-register-form
 
-# React-register-form
+//
+npm install
+
+//
+npm start
