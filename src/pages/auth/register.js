@@ -74,6 +74,7 @@ const Register = () => {
       default:
         break;
     }
+    
     console.log(user, errors);
   };
 
@@ -151,7 +152,7 @@ const Register = () => {
         <h2>Dummy Heading</h2>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. okay
         </p>
       </RegisterBack>
     </RegisterWrapper>
